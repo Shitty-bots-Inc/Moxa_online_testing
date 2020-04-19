@@ -11,4 +11,4 @@ Offical repository for Moxa: A deep learning based approach for unmaned mask det
 We will be using google colab platform for live testing of our model
 1) click on the following link to open the colab notebook https://drive.google.com/open?id=1dy6iKR5Tu0oqNIzVal52L81_n7fQxAwu
 2) open the note book with *google colab* 
-* ![img]()
+ ![img](https://github.com/Shitty-bots-Inc/Moxa_online_testing/blob/master/assest/sd.png)
