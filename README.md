@@ -12,4 +12,5 @@ We will be using google colab platform for live testing of our model
 1) click on the following link to open the colab notebook https://github.com/Shitty-bots-Inc/Moxa_online_testing/blob/master/moxa_2_1_HACK_ON.ipynb
 2) open the note book with *google colab* 
  ![img](https://github.com/Shitty-bots-Inc/Moxa_online_testing/blob/master/assest/sd.png)
-3) save a copy in your google drive
+3) Sign in to google account if not already done
+4) Run the cells one by one as the notebook say!
