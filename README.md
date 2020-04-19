@@ -1,5 +1,5 @@
 # Moxa
-Offical repository for Moxa: A deeplearning based unmaned mask detection appraoch for COVID 19
+Offical repository for Moxa: A deep learning based approach for unmaned mask detection for prevention of the spread of COVID 19
 
 ## Setting up the Enviornment:
  Go to your google drive and do the following:
