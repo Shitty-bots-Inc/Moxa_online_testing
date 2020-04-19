@@ -5,8 +5,9 @@ Offical repository for Moxa: A deep learning based approach for unmaned mask det
  Go to your google drive and do the following:
  1) Create a directory named ```moxa```
  2) In that directory upload the ```moxa.cfg``` , ```obj.names``` and ```obj.data``` given in this repository
-  * Download each of these files by clicking on ```raw``` and then ```save as``` by right clicking
-  * make sure once you upload the file their names are _exactly the same as mentioned here_
+   * Download each of these files by clicking on ```raw``` and then ```save as``` by right clicking
+   ![img](https://github.com/Shitty-bots-Inc/Moxa_online_testing/blob/master/assest/sa.PNG)
+   * make sure once you upload the file their names are _exactly the same as mentioned here_
  3) Download the ```moxa.weights``` file from the following link: https://drive.google.com/open?id=1efFfnEiuXWwuGT0465Le0rMEN4g4Mr24
  4) Upload the ```moxa.weights``` in the ```moxa``` directory 
 ## Live testing:
