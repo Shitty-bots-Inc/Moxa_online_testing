@@ -9,7 +9,7 @@ Offical repository for Moxa: A deep learning based approach for unmaned mask det
  4) Upload the ```moxa.weights``` in the ```moxa``` directory 
 ## Live testing:
 We will be using google colab platform for live testing of our model
-1) click on the following link to open the colab notebook https://drive.google.com/open?id=1dy6iKR5Tu0oqNIzVal52L81_n7fQxAwu
+1) click on the following link to open the colab notebook https://github.com/Shitty-bots-Inc/Moxa_online_testing/blob/master/moxa_2_1_HACK_ON.ipynb
 2) open the note book with *google colab* 
  ![img](https://github.com/Shitty-bots-Inc/Moxa_online_testing/blob/master/assest/sd.png)
 3) save a copy in your google drive
