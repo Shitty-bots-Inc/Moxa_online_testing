@@ -9,7 +9,7 @@ Offical repository for Moxa: A deep learning based approach for unmaned mask det
    ![img](https://github.com/Shitty-bots-Inc/Moxa_online_testing/blob/master/assest/sa.PNG)
    * make sure once you upload the file their names are _exactly the same as mentioned here_
  3) Download the ```moxa.weights``` file from the following link: https://drive.google.com/open?id=1efFfnEiuXWwuGT0465Le0rMEN4g4Mr24
- 4) Upload the ```moxa.weights``` in the ```moxa``` directory 
+ 4) Upload the ```moxa.weights``` in the ```moxa``` directory of google drive
 ## Live testing:
 We will be using google colab platform for live testing of our model
 1) click on the following link to open the colab notebook https://github.com/Shitty-bots-Inc/Moxa_online_testing/blob/master/moxa_2_1_HACK_ON.ipynb
