@@ -7,3 +7,5 @@ Offical repository for Moxa: A deep learning based approach for unmaned mask det
  2) In that directory upload the ```moxa.cfg``` , ```obj.names``` and ```obj.data``` given in this repository
  3) Download the ```moxa.weights``` file from the following link: https://drive.google.com/open?id=1efFfnEiuXWwuGT0465Le0rMEN4g4Mr24
  4) Upload the ```moxa.weights``` in the ```moxa``` directory 
+ 
+ 
